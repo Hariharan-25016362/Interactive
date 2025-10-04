@@ -87,7 +87,7 @@ h2 {
 ```
 
 ## OUTPUT:
-Screenshot 2025-10-04 154838.png
+![alt text](Screenshot 2025-10-04 154838.png)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
